@@ -10,6 +10,7 @@ Este é um projeto bem simples, sobre automação sobre geração de códigos pr
 O projeto é criado com:
 * Versão Python: 3.10
 * Versão Selenium: 4
+* Streamlit como front-end
 * Outras bibliotecas derivadas do selenium para melhor funcionalidade
 	
 ## Configurar
