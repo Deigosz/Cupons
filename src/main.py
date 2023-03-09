@@ -214,4 +214,3 @@ class Automacao:
 
 if __name__ == '__main__':
     Automacao()
-    
